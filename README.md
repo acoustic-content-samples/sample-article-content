@@ -1,5 +1,5 @@
 # sample-article-content
-------------------------
+
 ## Watson Content Hub - Article Sample Content
 
 ### Summary
