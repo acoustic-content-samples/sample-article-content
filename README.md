@@ -9,8 +9,14 @@ Use this content package with these samples:
 + and more...
 
 ### Deployment
-After extracting the zip archive, use the WCH dev tools to `push` the contents of the `sample-content` folder to your account.
-+ Command Line Tools: https://github.com/ibm-wch/wchtools-cli/
+
++ Install the Watson Content Hub Command Line Tools as described here: https://github.com/ibm-wch/wchtools-cli/
++ Download and extract the sample-content.zip archive to a temporary working directory.
++ Run the WCH command line tool to push the sample content as follows:
+
+```
+  wchtools push -A -v --dir <temporary working directory>
+```
 
 ###Resources
 
