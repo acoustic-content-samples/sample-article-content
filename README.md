@@ -22,6 +22,10 @@ Use this content package with these samples:
 
 NOTE: The zip archive contains a top level folder called "sample-content", which you must include in the path argument specified to the --dir option.  If you do not specify the full path to the sample-content folder (eg, if you specify the parent temporary directory that you extracted sample-content to), then no artifacts will be pushed to your tenant.   Ensure that the path that you specify to the --dir argument, contains folders named "assets", "categories", "content", "types",  prior to executing the wchtools command.
 
+### Optional Manual Creation of Content Types and Content
+
+The following wiki page describes [manual creation of content types and content](https://github.com/ibm-wch/sample-article-content/wiki/Manual-Creation-of-Content-Types-and-Content) with the Watson Content Hub Authoring UI, if you choose to do so instead of using the above package, or for information on how to create additional content types for use with other applications.
+
 ###Resources
 
 API Explorer reference documentation: https://developer.ibm.com/api/view/id-618
