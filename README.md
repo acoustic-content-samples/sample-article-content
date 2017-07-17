@@ -22,14 +22,6 @@ Use this content package with these samples:
 
 NOTE: The zip archive contains a top level folder called "sample-content", which you must include in the path argument specified to the --dir option.  If you do not specify the full path to the sample-content folder (eg, if you specify the parent temporary directory that you extracted sample-content to), then no artifacts will be pushed to your tenant.   Ensure that the path that you specify to the --dir argument, contains folders named "assets", "categories", "content", "types",  prior to executing the wchtools command.
 
-### Make some of the article content items "Ready"
-
-This sample content package helps you load a number of articles as content items in the "Draft" state.   In order to use these articles with Watson Content Hub delivery services and samples that leverage delivery search and the content delivery service, you should open each article in the authoring UI and choose to make that content item "Ready".
-
-+ Log into the Watson Content Hub Authoring UI as a user associated with your tenant.
-+ Select All Content and Assets.
-+ Select Filter / Status: draft / Content type: Article.
-+ Select each draft article from the list and then click the "Ready" then "Close" buttons.
 
 ### Optional Manual Creation of Content Types and Content
 
