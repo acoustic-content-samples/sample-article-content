@@ -1,9 +1,9 @@
 # sample-article-content
 
-## Watson Content Hub - Article Sample Content
+## Acoustic Content - Article Sample Content
 
 ### Summary
-The sample-content.zip provided in this repository provides a getting started package of content model artifacts for the IBM Watson Content Hub samples listed below.  The archive contains authoring categories and taxonomy, a content type for authoring articles, image profiles describing different image resolutions, and also includes some sample image assets and article content items.  By following the instructions in the below Deployment section, you can populate your tenant with these sample artifacts, to more quickly and easily get started with the listed samples and learn to develop applications that use Watson Content Hub.
+The sample-content.zip provided in this repository provides a getting started package of content model artifacts for the Acoustic Content (formerly Watson Content Hub) samples listed below.  The archive contains authoring categories and taxonomy, a content type for authoring articles, image profiles describing different image resolutions, and also includes some sample image assets and article content items.  By following the instructions in the below Deployment section, you can populate your tenant with these sample artifacts, to more quickly and easily get started with the listed samples and learn to develop applications that use Acoustic Content.
 
 Use this content package with these samples:
 + https://github.com/ibm-wch/sample-article-angular
@@ -12,9 +12,9 @@ Use this content package with these samples:
 
 ### Deployment
 
-+ Install the Watson Content Hub Command Line Tools as described here: https://github.com/ibm-wch/wchtools-cli/
++ Install the Acoustic Content Command Line Tools as described here: https://github.com/ibm-wch/wchtools-cli/
 + Download and extract the sample-content.zip archive to a temporary directory.
-+ Run the WCH command line tool to push the sample content as follows:
++ Run the Acoustic Content command line tool to push the sample content as follows:
 
 ```
   wchtools push -A -v --dir <temporary directory>/sample-content
