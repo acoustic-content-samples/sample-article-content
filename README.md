@@ -27,10 +27,10 @@ NOTE: The zip archive contains a top level folder called "sample-content", which
 
 The following wiki page describes [manual creation of content types and content](https://github.com/ibm-wch/sample-article-content/wiki/Manual-Creation-of-Content-Types-and-Content) with the Watson Content Hub Authoring UI, if you choose to do so instead of using the above package, or for information on how to create additional content types for use with other applications.
 
-###Resources
+## Resources
 
-API Explorer reference documentation: https://developer.ibm.com/api/view/id-618
+Acoustic Content developer documentation: https://developer.goacoustic.com/acoustic-content/docs
 
-Watson Content Hub developer center: https://developer.ibm.com/wch/
+Acoustic Content API reference documentation: https://developer.goacoustic.com/acoustic-content/reference
 
-Watson Content Hub forum: https://developer.ibm.com/answers/smartspace/wch/
+Acoustic Content Samples Gallery: https://content-samples.goacoustic.com/
